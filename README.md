@@ -14,6 +14,7 @@ npm run dev
 
 #Run in production
 npm start
+```
 
 ## App Info
     
