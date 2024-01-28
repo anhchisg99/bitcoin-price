@@ -14,6 +14,9 @@ app.use(cors())
 // parse application/x-www-form-urlencoded
 app.use(bodyParser.urlencoded({ extended: false }))
 
+app.get('/',(req,res)=>{
+    res.send("success")
+})
 // parse application/json
 app.use(bodyParser.json())
 //mongoose
