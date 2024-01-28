@@ -5,11 +5,16 @@
 
 
 ## Quick Start
-
-    > install dependencies 
-    > npm install
+```
+#install dependencies 
+npm install
     
-    > Serve on localhost:3000 
-    > npm run dev
+#Serve on localhost:3000 
+npm run dev
+
+#Run in production
+npm start
+
+## App Info
     
  
